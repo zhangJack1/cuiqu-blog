@@ -1,0 +1,111 @@
+---
+title: "经典深意萃取"
+layout: page
+---
+
+# 经典深意萃取
+
+> 共 **25** 系列 · **149,096** 字
+
+<div class="series-grid">
+<a href="01-intro-methodology.html" class="series-card">
+  <div class="series-card-title">导论·四步法方法论</div>
+  <div class="series-card-meta">2,833字 · 约6分钟</div>
+</a>
+<a href="02-wangyangming.html" class="series-card">
+  <div class="series-card-title">王阳明心学</div>
+  <div class="series-card-meta">7,879字 · 约16分钟</div>
+</a>
+<a href="03-daodejing.html" class="series-card">
+  <div class="series-card-title">道德经</div>
+  <div class="series-card-meta">6,283字 · 约13分钟</div>
+</a>
+<a href="04-mao-selected.html" class="series-card">
+  <div class="series-card-title">毛选</div>
+  <div class="series-card-meta">6,312字 · 约13分钟</div>
+</a>
+<a href="05-discipline-punish.html" class="series-card">
+  <div class="series-card-title">规训与惩罚</div>
+  <div class="series-card-meta">6,170字 · 约12分钟</div>
+</a>
+<a href="06-hanfeizi.html" class="series-card">
+  <div class="series-card-title">韩非子·制度工程</div>
+  <div class="series-card-meta">4,101字 · 约8分钟</div>
+</a>
+<a href="07-origin-of-species.html" class="series-card">
+  <div class="series-card-title">物种起源</div>
+  <div class="series-card-meta">6,027字 · 约12分钟</div>
+</a>
+<a href="08-on-war.html" class="series-card">
+  <div class="series-card-title">战争论</div>
+  <div class="series-card-meta">6,380字 · 约13分钟</div>
+</a>
+<a href="09-capital.html" class="series-card">
+  <div class="series-card-title">资本论</div>
+  <div class="series-card-meta">9,489字 · 约19分钟</div>
+</a>
+<a href="10-red-mansion.html" class="series-card">
+  <div class="series-card-title">红楼梦</div>
+  <div class="series-card-meta">5,728字 · 约11分钟</div>
+</a>
+<a href="11-questioning-tech.html" class="series-card">
+  <div class="series-card-title">技术的追问</div>
+  <div class="series-card-meta">3,960字 · 约8分钟</div>
+</a>
+<a href="12-weber-rationality.html" class="series-card">
+  <div class="series-card-title">韦伯·工具理性</div>
+  <div class="series-card-meta">4,067字 · 约8分钟</div>
+</a>
+<a href="13-simulacra.html" class="series-card">
+  <div class="series-card-title">拟像与仿真</div>
+  <div class="series-card-meta">6,746字 · 约13分钟</div>
+</a>
+<a href="14-guiguzi-info.html" class="series-card">
+  <div class="series-card-title">鬼谷子·信息不对称</div>
+  <div class="series-card-meta">5,962字 · 约12分钟</div>
+</a>
+<a href="15-contradiction.html" class="series-card">
+  <div class="series-card-title">矛盾论·辩证法</div>
+  <div class="series-card-meta">4,952字 · 约10分钟</div>
+</a>
+<a href="16-antifragile.html" class="series-card">
+  <div class="series-card-title">反脆弱</div>
+  <div class="series-card-meta">4,500字 · 约9分钟</div>
+</a>
+<a href="17-exit-voice-loyalty.html" class="series-card">
+  <div class="series-card-title">退出呼吁忠诚</div>
+  <div class="series-card-meta">4,563字 · 约9分钟</div>
+</a>
+<a href="18-cybernetics.html" class="series-card">
+  <div class="series-card-title">控制论·系统反馈</div>
+  <div class="series-card-meta">5,311字 · 约11分钟</div>
+</a>
+<a href="19-qian-systems.html" class="series-card">
+  <div class="series-card-title">钱学森·系统工程</div>
+  <div class="series-card-meta">5,461字 · 约11分钟</div>
+</a>
+<a href="20-sunzi-resonance.html" class="series-card">
+  <div class="series-card-title">孙子兵法·战史共振</div>
+  <div class="series-card-meta">7,184字 · 约14分钟</div>
+</a>
+<a href="ala-sunzi.html" class="series-card">
+  <div class="series-card-title">阿来说·孙子兵法</div>
+  <div class="series-card-meta">6,107字 · 约12分钟</div>
+</a>
+<a href="mao-modern.html" class="series-card">
+  <div class="series-card-title">毛选对当代的指导意义</div>
+  <div class="series-card-meta">5,739字 · 约11分钟</div>
+</a>
+<a href="wangyangming-modern.html" class="series-card">
+  <div class="series-card-title">王阳明心学对当代的指导意义</div>
+  <div class="series-card-meta">7,667字 · 约15分钟</div>
+</a>
+<a href="sunzi-modern.html" class="series-card">
+  <div class="series-card-title">孙子兵法对当代的指导意义</div>
+  <div class="series-card-meta">6,371字 · 约13分钟</div>
+</a>
+<a href="capital-modern.html" class="series-card">
+  <div class="series-card-title">资本论对当代的指导意义</div>
+  <div class="series-card-meta">9,304字 · 约19分钟</div>
+</a>
+</div>

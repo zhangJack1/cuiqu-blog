@@ -1,0 +1,17 @@
+{
+  "name": "vitepress-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev content",
+    "build": "vitepress build content",
+    "preview": "vitepress preview content"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}

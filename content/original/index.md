@@ -1,0 +1,213 @@
+---
+title: "原创萃取"
+layout: page
+---
+
+# 原创萃取
+
+> 共 **37** 系列 · **1,456,132** 字
+
+## 原创萃取
+
+<div class="series-grid">
+<a href="structural-eye.html" class="series-card">
+  <div class="series-card-title">结构之眼</div>
+  <div class="series-card-author">紫薇香2035</div>
+  <div class="series-card-meta">6.0万字 · 约2小时0分钟</div>
+</a>
+<a href="compensatory-leap.html" class="series-card">
+  <div class="series-card-title">代偿的跃迁</div>
+  <div class="series-card-author">王东岳</div>
+  <div class="series-card-meta">4.4万字 · 约1小时27分钟</div>
+</a>
+</div>
+
+## 看见 · 判断 · 行动 · 验证
+
+<div class="series-grid">
+<a href="beyond-dark-time.html" class="series-card">
+  <div class="series-card-title">暗时间之外</div>
+  <div class="series-card-author">刘未鹏</div>
+  <div class="series-card-meta">4.9万字 · 约1小时38分钟</div>
+</a>
+<a href="after-penetration.html" class="series-card">
+  <div class="series-card-title">穿透之后</div>
+  <div class="series-card-author">王霹雳</div>
+  <div class="series-card-meta">3.2万字 · 约1小时3分钟</div>
+</a>
+<a href="geopolitical-awakening.html" class="series-card">
+  <div class="series-card-title">地缘的觉醒</div>
+  <div class="series-card-author">温骏轩</div>
+  <div class="series-card-meta">2.9万字 · 约57分钟</div>
+</a>
+<a href="beyond-composure.html" class="series-card">
+  <div class="series-card-title">定力之外</div>
+  <div class="series-card-author">宫玉振</div>
+  <div class="series-card-meta">4.7万字 · 约1小时35分钟</div>
+</a>
+<a href="after-thick-black.html" class="series-card">
+  <div class="series-card-title">厚黑之后</div>
+  <div class="series-card-author">天涯九哥</div>
+  <div class="series-card-meta">3.6万字 · 约1小时11分钟</div>
+</a>
+<a href="after-paradigm.html" class="series-card">
+  <div class="series-card-title">范式之后</div>
+  <div class="series-card-author">思考普拉提</div>
+  <div class="series-card-meta">3.1万字 · 约1小时2分钟</div>
+</a>
+<a href="boundary-of-known.html" class="series-card">
+  <div class="series-card-title">已知的边界</div>
+  <div class="series-card-author">万维钢</div>
+  <div class="series-card-meta">3.8万字 · 约1小时16分钟</div>
+</a>
+<a href="above-hub.html" class="series-card">
+  <div class="series-card-title">枢纽之上</div>
+  <div class="series-card-author">施展</div>
+  <div class="series-card-meta">4.8万字 · 约1小时37分钟</div>
+</a>
+<a href="axioms-of-thinking.html" class="series-card">
+  <div class="series-card-title">思维的公理</div>
+  <div class="series-card-author">切问近思</div>
+  <div class="series-card-meta">4.8万字 · 约1小时36分钟</div>
+</a>
+<a href="above-dimensions.html" class="series-card">
+  <div class="series-card-title">维度之上</div>
+  <div class="series-card-author">翟东升</div>
+  <div class="series-card-meta">5.6万字 · 约1小时52分钟</div>
+</a>
+<a href="cognitive-framework.html" class="series-card">
+  <div class="series-card-title">认知框架</div>
+  <div class="series-card-author">方向研究</div>
+  <div class="series-card-meta">3.7万字 · 约1小时13分钟</div>
+</a>
+</div>
+
+## 之后 · 之下 · 之间
+
+<div class="series-grid">
+<a href="after-artery.html" class="series-card">
+  <div class="series-card-title">动脉之后</div>
+  <div class="series-card-author">温竣岩</div>
+  <div class="series-card-meta">4.5万字 · 约1小时30分钟</div>
+</a>
+<a href="after-disenchantment.html" class="series-card">
+  <div class="series-card-title">祛魅之后</div>
+  <div class="series-card-author">刘擎</div>
+  <div class="series-card-meta">4.7万字 · 约1小时33分钟</div>
+</a>
+<a href="after-speculation.html" class="series-card">
+  <div class="series-card-title">思辨之后</div>
+  <div class="series-card-author">王德峰</div>
+  <div class="series-card-meta">4.5万字 · 约1小时31分钟</div>
+</a>
+<a href="after-unconscious.html" class="series-card">
+  <div class="series-card-title">无意识之后</div>
+  <div class="series-card-author">精神分析札记</div>
+  <div class="series-card-meta">6.4万字 · 约2小时9分钟</div>
+</a>
+<a href="between-utterance.html" class="series-card">
+  <div class="series-card-title">言说之间</div>
+  <div class="series-card-author">严和来</div>
+  <div class="series-card-meta">4.8万字 · 约1小时35分钟</div>
+</a>
+<a href="after-prophecy.html" class="series-card">
+  <div class="series-card-title">预言之后</div>
+  <div class="series-card-author">天涯KK大神</div>
+  <div class="series-card-meta">4.0万字 · 约1小时20分钟</div>
+</a>
+<a href="returning-darkline.html" class="series-card">
+  <div class="series-card-title">折返的暗线</div>
+  <div class="series-card-author">忽左忽右</div>
+  <div class="series-card-meta">4.3万字 · 约1小时26分钟</div>
+</a>
+<a href="after-institution.html" class="series-card">
+  <div class="series-card-title">制度之后</div>
+  <div class="series-card-author">草说木言</div>
+  <div class="series-card-meta">3.6万字 · 约1小时13分钟</div>
+</a>
+<a href="under-cycles.html" class="series-card">
+  <div class="series-card-title">周期之下</div>
+  <div class="series-card-author">付鹏</div>
+  <div class="series-card-meta">5.2万字 · 约1小时43分钟</div>
+</a>
+<a href="after-transfer.html" class="series-card">
+  <div class="series-card-title">转嫁之后</div>
+  <div class="series-card-author">温铁军</div>
+  <div class="series-card-meta">5.0万字 · 约1小时40分钟</div>
+</a>
+<a href="beyond-self.html" class="series-card">
+  <div class="series-card-title">自性之外</div>
+  <div class="series-card-author">武志红</div>
+  <div class="series-card-meta">4.4万字 · 约1小时28分钟</div>
+</a>
+<a href="hidden-door-refinement.html" class="series-card">
+  <div class="series-card-title">精进的暗门</div>
+  <div class="series-card-author">采铜</div>
+  <div class="series-card-meta">4.3万字 · 约1小时26分钟</div>
+</a>
+<a href="discontinuous-depth.html" class="series-card">
+  <div class="series-card-title">非连续的纵深</div>
+  <div class="series-card-author">李善友</div>
+  <div class="series-card-meta">4.6万字 · 约1小时33分钟</div>
+</a>
+</div>
+
+## 还原式
+
+<div class="series-grid">
+<a href="art-of-war-daily.html" class="series-card">
+  <div class="series-card-title">兵法的日常</div>
+  <div class="series-card-author">蝉大侠</div>
+  <div class="series-card-meta">1.9万字 · 约39分钟</div>
+</a>
+<a href="reinforcing-logic.html" class="series-card">
+  <div class="series-card-title">补强的逻辑</div>
+  <div class="series-card-author">9qadg</div>
+  <div class="series-card-meta">3.2万字 · 约1小时4分钟</div>
+</a>
+<a href="temperature-of-law.html" class="series-card">
+  <div class="series-card-title">法治的温度</div>
+  <div class="series-card-author">罗翔</div>
+  <div class="series-card-meta">2.8万字 · 约56分钟</div>
+</a>
+<a href="temperature-of-psyche.html" class="series-card">
+  <div class="series-card-title">精神分析的体温</div>
+  <div class="series-card-author">曾奇峰</div>
+  <div class="series-card-meta">3.0万字 · 约1小时1分钟</div>
+</a>
+<a href="critical-knowledge.html" class="series-card">
+  <div class="series-card-title">临界知识</div>
+  <div class="series-card-author">成甲</div>
+  <div class="series-card-meta">1.9万字 · 约38分钟</div>
+</a>
+<a href="ladder-of-critique.html" class="series-card">
+  <div class="series-card-title">批判的阶梯</div>
+  <div class="series-card-author">邓晓芒</div>
+  <div class="series-card-meta">2.7万字 · 约53分钟</div>
+</a>
+<a href="deep-thinking.html" class="series-card">
+  <div class="series-card-title">深度思维</div>
+  <div class="series-card-author">叶修</div>
+  <div class="series-card-meta">2.1万字 · 约42分钟</div>
+</a>
+<a href="heaven-and-human.html" class="series-card">
+  <div class="series-card-title">天人之际</div>
+  <div class="series-card-author">傅佩荣</div>
+  <div class="series-card-meta">2.5万字 · 约49分钟</div>
+</a>
+<a href="sympathetic-understanding.html" class="series-card">
+  <div class="series-card-title">同情的理解</div>
+  <div class="series-card-author">维舟</div>
+  <div class="series-card-meta">2.9万字 · 约57分钟</div>
+</a>
+<a href="hidden-door-of-classics.html" class="series-card">
+  <div class="series-card-title">经典的暗门</div>
+  <div class="series-card-author">熊逸</div>
+  <div class="series-card-meta">3.3万字 · 约1小时7分钟</div>
+</a>
+<a href="capital-loop.html" class="series-card">
+  <div class="series-card-title">资本的闭环</div>
+  <div class="series-card-author">硅谷101（陈茜）</div>
+  <div class="series-card-meta">3.7万字 · 约1小时13分钟</div>
+</a>
+</div>

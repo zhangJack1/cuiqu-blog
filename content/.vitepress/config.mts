@@ -1,0 +1,228 @@
+import { defineConfig } from 'vitepress'
+
+export default defineConfig({
+  lang: 'zh-CN',
+  title: '萃取工坊',
+  description: '知识深意 · 结构性萃取',
+
+  base: '/cuiqu-blog/',
+  lastUpdated: false,
+  cleanUrls: true,
+
+  head: [
+    ['meta', { name: 'theme-color', content: '#2c5f8a' }],
+    ['meta', { name: 'robots', content: 'noindex, nofollow, noarchive, nosnippet' }],
+    ['meta', { name: 'referrer', content: 'no-referrer' }],
+  ],
+
+  themeConfig: {
+    logo: null,
+
+    nav: [
+      { text: '首页', link: '/' },
+      { text: '职场成长', link: '/career/' },
+      { text: '商业方法论', link: '/business/' },
+      { text: '中国智慧', link: '/wisdom/' },
+      { text: '经典深意萃取', link: '/classics/' },
+      { text: '财经知识', link: '/finance/' },
+      { text: '原创萃取', link: '/original/' },
+      { text: '调研报告', link: '/reports/' },
+    ],
+
+    sidebar: {
+      '/career/': [
+        {
+          text: '职场成长',
+          items: [
+            { text: '概览', link: '/career/' },
+            { text: '职业访谈', link: '/career/interviews' },
+            { text: '工作周记', link: '/career/weekly' },
+            { text: '成为喜欢的大人', link: '/career/be-adult-you-like' },
+            { text: '职场被穷养', link: '/career/workplace-poor' },
+            { text: '如何变富', link: '/career/how-to-get-rich' },
+            { text: '考研真相', link: '/career/grad-school-truth' },
+            { text: '面试实录', link: '/career/interview-record' },
+            { text: '面试急救包', link: '/career/interview-kit' },
+            { text: '双非找工作', link: '/career/job-hunt' },
+            { text: '年轻人赚到第一桶金', link: '/career/first-pot-of-gold' },
+            { text: '毕业最后悔的10件事', link: '/career/10-regrets' },
+            { text: '看过30W份简历的HR', link: '/career/hr-300k-resumes' },
+            { text: '史上最难就业季', link: '/career/hardest-job-season' },
+            { text: '女生开窍后', link: '/career/girls-awakened' },
+            { text: '学历自救', link: '/career/degree-self-rescue' },
+            { text: '25岁人生真相', link: '/career/truth-at-25' },
+            { text: '心理咨询师谈中年危机', link: '/career/midlife-crisis' },
+            { text: '爱情里的学历歧视', link: '/career/love-degree-bias' },
+            { text: 'Olga天才女友', link: '/career/olga-genius-girlfriend' },
+            { text: '离职遭遇职场霸凌', link: '/career/workplace-bullying' },
+            { text: '片段精选', link: '/career/highlights' },
+            { text: '零散视频', link: '/career/misc-videos' },
+          ]
+        }
+      ],
+
+      '/business/': [
+        {
+          text: '商业方法论',
+          items: [
+            { text: '概览', link: '/business/' },
+            { text: '大客户销售知识体系', link: '/business/key-account-sales' },
+            { text: '40本大客户销售入门书籍盘点', link: '/business/40-sales-books' },
+          ]
+        }
+      ],
+
+      '/wisdom/': [
+        {
+          text: '中国智慧',
+          items: [
+            { text: '概览', link: '/wisdom/' },
+            { text: '玄学', link: '/wisdom/metaphysics' },
+            { text: '健康', link: '/wisdom/health' },
+            { text: '心理', link: '/wisdom/psychology' },
+          ]
+        }
+      ],
+
+      '/classics/': [
+        {
+          text: '经典深意萃取',
+          items: [
+            { text: '概览', link: '/classics/' },
+            { text: '导论·四步法方法论', link: '/classics/01-intro-methodology' },
+            { text: '王阳明心学', link: '/classics/02-wangyangming' },
+            { text: '道德经', link: '/classics/03-daodejing' },
+            { text: '毛选', link: '/classics/04-mao-selected' },
+            { text: '规训与惩罚', link: '/classics/05-discipline-punish' },
+            { text: '韩非子·制度工程', link: '/classics/06-hanfeizi' },
+            { text: '物种起源', link: '/classics/07-origin-of-species' },
+            { text: '战争论', link: '/classics/08-on-war' },
+            { text: '资本论', link: '/classics/09-capital' },
+            { text: '红楼梦', link: '/classics/10-red-mansion' },
+            { text: '技术的追问', link: '/classics/11-questioning-tech' },
+            { text: '韦伯·工具理性', link: '/classics/12-weber-rationality' },
+            { text: '拟像与仿真', link: '/classics/13-simulacra' },
+            { text: '鬼谷子·信息不对称', link: '/classics/14-guiguzi-info' },
+            { text: '矛盾论·辩证法', link: '/classics/15-contradiction' },
+            { text: '反脆弱', link: '/classics/16-antifragile' },
+            { text: '退出呼吁忠诚', link: '/classics/17-exit-voice-loyalty' },
+            { text: '控制论·系统反馈', link: '/classics/18-cybernetics' },
+            { text: '钱学森·系统工程', link: '/classics/19-qian-systems' },
+            { text: '孙子兵法·战史共振', link: '/classics/20-sunzi-resonance' },
+            { text: '阿来说·孙子兵法', link: '/classics/ala-sunzi' },
+            { text: '毛选·当代意义', link: '/classics/mao-modern' },
+            { text: '王阳明心学·当代意义', link: '/classics/wangyangming-modern' },
+            { text: '孙子兵法·当代意义', link: '/classics/sunzi-modern' },
+            { text: '资本论·当代意义', link: '/classics/capital-modern' },
+          ]
+        }
+      ],
+
+      '/finance/': [
+        {
+          text: '财经知识',
+          items: [
+            { text: '概览', link: '/finance/' },
+            { text: '小Lin说热门视频', link: '/finance/xiaolin-hot-videos' },
+          ]
+        }
+      ],
+
+      '/original/': [
+        {
+          text: '原创萃取',
+          items: [
+            { text: '概览', link: '/original/' },
+            { text: '结构之眼 — 紫薇香2035', link: '/original/structural-eye' },
+            { text: '代偿的跃迁 — 王东岳', link: '/original/compensatory-leap' },
+          ]
+        },
+        {
+          text: '看见 · 判断 · 行动 · 验证',
+          items: [
+            { text: '暗时间之外 — 刘未鹏', link: '/original/beyond-dark-time' },
+            { text: '穿透之后 — 王霹雳', link: '/original/after-penetration' },
+            { text: '地缘的觉醒 — 温骏轩', link: '/original/geopolitical-awakening' },
+            { text: '定力之外 — 宫玉振', link: '/original/beyond-composure' },
+            { text: '厚黑之后 — 天涯九哥', link: '/original/after-thick-black' },
+            { text: '范式之后 — 思考普拉提', link: '/original/after-paradigm' },
+            { text: '已知的边界 — 万维钢', link: '/original/boundary-of-known' },
+            { text: '枢纽之上 — 施展', link: '/original/above-hub' },
+            { text: '思维的公理 — 切问近思', link: '/original/axioms-of-thinking' },
+            { text: '维度之上 — 翟东升', link: '/original/above-dimensions' },
+            { text: '认知框架 — 方向研究', link: '/original/cognitive-framework' },
+          ]
+        },
+        {
+          text: '之后 · 之下 · 之间',
+          items: [
+            { text: '动脉之后 — 温竣岩', link: '/original/after-artery' },
+            { text: '祛魅之后 — 刘擎', link: '/original/after-disenchantment' },
+            { text: '思辨之后 — 王德峰', link: '/original/after-speculation' },
+            { text: '无意识之后 — 精神分析札记', link: '/original/after-unconscious' },
+            { text: '言说之间 — 严和来', link: '/original/between-utterance' },
+            { text: '预言之后 — 天涯KK大神', link: '/original/after-prophecy' },
+            { text: '折返的暗线 — 忽左忽右', link: '/original/returning-darkline' },
+            { text: '制度之后 — 草说木言', link: '/original/after-institution' },
+            { text: '周期之下 — 付鹏', link: '/original/under-cycles' },
+            { text: '转嫁之后 — 温铁军', link: '/original/after-transfer' },
+            { text: '自性之外 — 武志红', link: '/original/beyond-self' },
+            { text: '精进的暗门 — 采铜', link: '/original/hidden-door-refinement' },
+            { text: '非连续的纵深 — 李善友', link: '/original/discontinuous-depth' },
+          ]
+        },
+        {
+          text: '还原式',
+          items: [
+            { text: '兵法的日常 — 蝉大侠', link: '/original/art-of-war-daily' },
+            { text: '补强的逻辑 — 9qadg', link: '/original/reinforcing-logic' },
+            { text: '法治的温度 — 罗翔', link: '/original/temperature-of-law' },
+            { text: '精神分析的体温 — 曾奇峰', link: '/original/temperature-of-psyche' },
+            { text: '临界知识 — 成甲', link: '/original/critical-knowledge' },
+            { text: '批判的阶梯 — 邓晓芒', link: '/original/ladder-of-critique' },
+            { text: '深度思维 — 叶修', link: '/original/deep-thinking' },
+            { text: '天人之际 — 傅佩荣', link: '/original/heaven-and-human' },
+            { text: '同情的理解 — 维舟', link: '/original/sympathetic-understanding' },
+            { text: '经典的暗门 — 熊逸', link: '/original/hidden-door-of-classics' },
+            { text: '资本的闭环 — 硅谷101（陈茜）', link: '/original/capital-loop' },
+          ]
+        }
+      ],
+
+      '/reports/': [
+        {
+          text: '调研报告',
+          items: [
+            { text: '概览', link: '/reports/' },
+            { text: '付鹏调研', link: '/reports/fu-peng-report' },
+            { text: '温骏轩调研', link: '/reports/wen-junxuan-report' },
+          ]
+        }
+      ],
+    },
+
+    search: {
+      provider: 'local',
+      options: {
+        locales: {
+          root: {
+            translations: {
+              button: { buttonText: '搜索', buttonAriaLabel: '搜索' },
+              modal: {
+                noResultsText: '无法找到相关结果',
+                resetButtonTitle: '清除查询条件',
+                footer: { selectText: '选择', navigateText: '切换', closeText: '关闭' },
+              },
+            },
+          },
+        },
+      },
+    },
+
+    socialLinks: [],
+
+    footer: {
+      message: '知识深意 · 结构性萃取',
+    },
+  },
+})
